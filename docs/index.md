@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# BDM Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is just a place to keep all my notes nice and organised and at hand.  If they are of use to your excellent, if not sorry :)  
 
-## Commands
+## Contact Me
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Reach me on:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [LinkedIn](https://www.linkedin.com/in/bmccafferty)
+- [GitHub](https://github.com/bmccafferty)
